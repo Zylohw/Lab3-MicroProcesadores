@@ -15,7 +15,7 @@ int main() {
     printf("tu resultado es: %d \n",result);
 
     // prueba de la función myCombinations
-    myCombinations(3, "A = {rojo, verde, azul}", comb);
+    myCombinations(2, "A = {rojo, verde, azul}", comb);
     printf("prueba myCombinations: %s\n",comb);
 
     while(1);
